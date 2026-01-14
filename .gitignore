@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Project Specific
+saved_models/
+results/
+*.pkl
+*.docx
+Proje_Ozeti.docx
+~$*.docx
+
+# OS
+Thumbs.db
+Desktop.ini
